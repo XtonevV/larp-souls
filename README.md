@@ -1,4 +1,4 @@
-# WELCOME to **the children birthed by randomness**
+# WELCOME to **larp souls**
 i'm still figuring github out, this page may look better later
 
 **ALL models and textures were made by me. Spare a colorblind fag and credit me if reused (you can use it as inspiration, inspiration doesn't need a credit)**
@@ -49,6 +49,8 @@ i'm still figuring github out, this page may look better later
 .  Lothric War Banner - The flagpole that once carried the Lothric crest, and guided the knights long ago. The tip of the pole is fitted with a sharply pointed decoration, letting it serve as a spear.
 
 .  Winged Spear - A long-hilted spear with winged lugs. Long reach, and can be used with shield up. Spear attacks are centered on thrusting, but can inflict high damage when timed with the end of an enemy's swing.
+
+.  Dragonslayer Swordspear - A dragon hunting weapon from the age of the gods. The earliest form of the cross spear, serving as both a sword and a spear.
 
 ## Totems of Undying:
 
