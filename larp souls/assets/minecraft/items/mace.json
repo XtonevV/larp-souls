@@ -1,0 +1,62 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "component": "minecraft:custom_name",
+    "cases": [
+      {
+        "when": "Dragon Tooth",
+        "model": {
+          "type": "minecraft:select",
+          "property": "minecraft:display_context",
+          "cases": [
+            {
+              "when": [
+              "ground",
+              "on_shelf",
+              "gui"
+            ],
+              "model": {
+                "type": "minecraft:model",
+                "model": "ownpack:item/dsr_dragontooth_gui"
+              }
+            },
+            {
+              "when": [
+                "firstperson_righthand",
+                "firstperson_lefthand",
+                "thirdperson_righthand",
+                "thirdperson_lefthand",
+                "head",
+                "fixed",
+                "none"
+              ],
+              "model": {
+                "type": "minecraft:model",
+                "model": "ownpack:item/dsr_dragontooth"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "when": "Greathammer",
+        "model": {
+          "type": "minecraft:model",
+          "model": "ownpack:item/warhammer"
+        }
+      },
+      {
+        "when": "Gavel Hammer",
+        "model": {
+          "type": "minecraft:model",
+          "model": "ownpack:item/jjk_gavelhammer_mace"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/mace"
+    },
+    "property": "minecraft:component"
+  }
+}

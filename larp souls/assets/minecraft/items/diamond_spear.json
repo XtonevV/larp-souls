@@ -1,0 +1,106 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:display_context",
+    "cases": [
+      {
+        "when": [
+          "firstperson_righthand",
+          "firstperson_lefthand",
+          "thirdperson_righthand",
+          "thirdperson_lefthand",
+          "head",
+          "fixed"
+        ],
+        "model": {
+          "type": "minecraft:select",
+          "property": "minecraft:component",
+          "component": "minecraft:custom_name",
+          "cases": [
+            {
+              "when": "Lothric War Banner",
+              "model": {
+                "type": "minecraft:condition",
+                "property": "minecraft:using_item",
+                "on_true": {
+                  "type": "minecraft:model",
+                  "model": "ownpack:item/ds3_lothric_war_banner_using"
+                },
+                "on_false": {
+                  "type": "minecraft:model",
+                  "model": "ownpack:item/ds3_lothric_war_banner"
+                }
+              }
+            },
+            {
+              "when": "Winged Spear",
+              "model": {
+                "type": "minecraft:condition",
+                "property": "minecraft:using_item",
+                "on_true": {
+                  "type": "minecraft:model",
+                  "model": "ownpack:item/own_winged_spear_using"
+                },
+                "on_false": {
+                  "type": "minecraft:model",
+                  "model": "ownpack:item/own_winged_spear"
+                }
+              }
+            }
+          ],
+          "fallback": {
+            "type": "minecraft:condition",
+            "property": "minecraft:using_item",
+            "on_true": {
+              "type": "minecraft:model",
+              "model": "minecraft:item/diamond_spear_in_hand"
+            },
+            "on_false": {
+              "type": "minecraft:model",
+              "model": "minecraft:item/diamond_spear_in_hand"
+            }
+          }
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:select",
+      "property": "minecraft:display_context",
+      "cases": [
+        {
+          "when": [
+            "gui",
+            "ground",
+            "on_shelf",
+            "none"
+          ],
+          "model": {
+            "type": "minecraft:select",
+            "property": "minecraft:component",
+            "component": "minecraft:custom_name",
+            "cases": [
+              {
+                "when": "Lothric War Banner",
+                "model": {
+                  "type": "minecraft:model",
+                  "model": "ownpack:item/ds3_lothric_war_banner_gui"
+                }
+              },
+              {
+                "when": "Winged Spear",
+                "model": {
+                  "type": "minecraft:model",
+                  "model": "ownpack:item/own_winged_spear"
+                }
+              }
+            ],
+            "fallback": {
+              "type": "minecraft:model",
+              "model": "minecraft:item/diamond_spear"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

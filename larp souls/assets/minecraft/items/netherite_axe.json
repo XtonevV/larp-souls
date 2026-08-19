@@ -1,0 +1,56 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "component": "minecraft:custom_name",
+    "cases": [
+      {
+        "when": "Greataxe",
+        "model": {
+          "type": "minecraft:select",
+          "property": "minecraft:display_context",
+          "cases": [
+            {
+              "when": [
+              "ground",
+              "on_shelf",
+              "gui"
+            ],
+              "model": {
+                "type": "minecraft:model",
+                "model": "ownpack:item/greataxe_gui"
+              }
+            },
+            {
+              "when": [
+                "firstperson_righthand",
+                "firstperson_lefthand",
+                "thirdperson_righthand",
+                "thirdperson_lefthand",
+                "head",
+                "fixed",
+                "none"
+              ],
+              "model": {
+                "type": "minecraft:model",
+                "model": "ownpack:item/greataxe"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "when": "Gavel Hammer",
+        "model": {
+          "type": "minecraft:model",
+          "model": "ownpack:item/jjk_gavelhammer_axe"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/netherite_axe"
+    },
+    "property": "minecraft:component"
+  },
+  "swap_animation_scale": 1.95
+}
