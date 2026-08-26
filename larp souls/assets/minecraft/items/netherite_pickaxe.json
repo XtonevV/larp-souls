@@ -8,7 +8,7 @@
         "when": "Blaze Reap",
         "model": {
           "type": "minecraft:model",
-          "model": "ownpack:item/blazereap"
+          "model": "ownpack:item/madeinabyss_blazereap"
         }
       }
     ],
@@ -16,6 +16,5 @@
       "type": "minecraft:model",
       "model": "minecraft:item/netherite_pickaxe"
     }
-  },
-  "hand_animation_on_swap": false
+  }
 }

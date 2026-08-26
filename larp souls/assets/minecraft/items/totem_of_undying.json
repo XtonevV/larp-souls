@@ -5,6 +5,21 @@
     "component": "minecraft:custom_name",
     "cases": [
       {
+        "when": "Shield",
+        "model": {
+          "type": "minecraft:condition",
+          "property": "minecraft:using_item",
+          "on_true": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/shield_blocking"
+          },
+          "on_false": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/shield"
+          }
+        }
+      },
+      {
         "when": "Xtonev",
         "model": {
           "type": "minecraft:model",

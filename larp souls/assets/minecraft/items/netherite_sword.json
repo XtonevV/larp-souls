@@ -17,7 +17,7 @@
             ],
               "model": {
                 "type": "minecraft:model",
-                "model": "ownpack:item/darkdrift_gui"
+                "model": "ownpack:item/ds2_darkdrift_gui"
               }
             },
             {
@@ -32,7 +32,7 @@
               ],
               "model": {
                 "type": "minecraft:model",
-                "model": "ownpack:item/darkdrift"
+                "model": "ownpack:item/ds2_darkdrift"
               }
             }
           ]

@@ -17,7 +17,7 @@
             ],
               "model": {
                 "type": "minecraft:model",
-                "model": "ownpack:item/darkdrift_gui"
+                "model": "ownpack:item/ds2_darkdrift_gui"
               }
             },
             {
@@ -32,7 +32,7 @@
               ],
               "model": {
                 "type": "minecraft:model",
-                "model": "ownpack:item/darkdrift"
+                "model": "ownpack:item/ds2_darkdrift"
               }
             }
           ]
@@ -84,6 +84,41 @@
         "model": {
           "type": "minecraft:model",
           "model": "ownpack:item/tf2_golden_pan"
+        }
+      },
+      {
+        "when": "Dragonslayer Swordspear",
+        "model": {
+          "type": "minecraft:select",
+          "property": "minecraft:display_context",
+          "cases": [
+            {
+              "when": [
+              "ground",
+              "on_shelf",
+              "gui"
+            ],
+              "model": {
+                "type": "minecraft:model",
+                "model": "ownpack:item/ds3_dragonslayer_swordspear_gui"
+              }
+            },
+            {
+              "when": [
+                "firstperson_righthand",
+                "firstperson_lefthand",
+                "thirdperson_righthand",
+                "thirdperson_lefthand",
+                "head",
+                "fixed",
+                "none"
+              ],
+              "model": {
+                "type": "minecraft:model",
+                "model": "ownpack:item/ds3_dragonslayer_swordspear"
+              }
+            }
+          ]
         }
       }
     ],

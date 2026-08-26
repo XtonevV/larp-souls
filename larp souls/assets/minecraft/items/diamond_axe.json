@@ -17,7 +17,7 @@
             ],
               "model": {
                 "type": "minecraft:model",
-                "model": "ownpack:item/greataxe_gui"
+                "model": "ownpack:item/ds3_greataxe_gui"
               }
             },
             {
@@ -32,7 +32,7 @@
               ],
               "model": {
                 "type": "minecraft:model",
-                "model": "ownpack:item/greataxe"
+                "model": "ownpack:item/ds3_greataxe"
               }
             }
           ]

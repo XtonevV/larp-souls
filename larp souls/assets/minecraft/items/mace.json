@@ -42,7 +42,7 @@
         "when": "Greathammer",
         "model": {
           "type": "minecraft:model",
-          "model": "ownpack:item/warhammer"
+          "model": "ownpack:item/own_warhammer"
         }
       },
       {
