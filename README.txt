@@ -16,6 +16,8 @@ Swords:
 
 .  Firelink Greatsword - The Lords of Cinder linked the First Flame, and this Greatsword was wielded by their deific manifestation. This coiled sword, found thrust in the bonfire, existed long before the throneless lords themselves.
 
+.  Dragonslayer Swordspear - A dragon hunting weapon from the age of the gods. The earliest form of the cross spear, serving as both a sword and a spear.
+
 Axes: 
 .  Greataxe - Greataxe resembling a hunk of raw iron. If one posesses the inhuman strength required to lift the weapon, the great heft of its attacks will send foes flying.  However, since every swing makes use of one's entire body, attacks leave the wielder wide open to retaliation.
 
