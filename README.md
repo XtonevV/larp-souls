@@ -6,6 +6,7 @@ i'm still figuring github out, this page may look better later
 **This is the list of the items to rename and the names:**
 
 **IT'S ALL CASE SENSITIVE**
+
 **FOR TIERED TOOLS IT ONLY WORKS FOR IRON, DIAMOND AND NETHERITE**
 
 ## Swords: 
