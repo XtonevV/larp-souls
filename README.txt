@@ -1,4 +1,4 @@
-WELCOME to the children birthed by randomness
+WELCOME to the larp souls (no capital letters)
 
 ALL models and textures were made by me. Spare a colorblind fag and credit me if reused (you can use it as inspiration, inspiration doesn't need a credit)
 
@@ -31,6 +31,8 @@ Maces:
 
 .  Gavel Hammer - A cursed tool of Higuruma from Jujutsu Kaisen. His cursed technique allows him to manifest them whenever he needs one.
 
+. Dolchstreithammer - A unique warhammer with its head being shaped like a human hand
+
 Shields:
 .  Crest Shield - Shield of a nameless knight, likely a high-ranking knight of Astora. One of the enchanted blue shields. The Crest Shield greatly reduces magic damage.
 
@@ -47,6 +49,8 @@ Spears:
 .  Lothric War Banner - The flagpole that once carried the Lothric crest, and guided the knights long ago. The tip of the pole is fitted with a sharply pointed decoration, letting it serve as a spear.
 
 .  Winged Spear - A long-hilted spear with winged lugs. Long reach, and can be used with shield up. Spear attacks are centered on thrusting, but can inflict high damage when timed with the end of an enemy's swing.
+
+.  Dragonslayer Swordspear - A dragon hunting weapon from the age of the gods. The earliest form of the cross spear, serving as both a sword and a spear.
 
 Totems of Undying:
 
