@@ -46,6 +46,13 @@
         }
       },
       {
+        "when": "Dolchstreithammer",
+        "model": {
+          "type": "minecraft:model",
+          "model": "ownpack:item/own_dolchstreithammer"
+        }
+      },
+      {
         "when": "Gavel Hammer",
         "model": {
           "type": "minecraft:model",
