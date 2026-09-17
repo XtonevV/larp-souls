@@ -17,6 +17,7 @@ i'm still figuring github out, this page may look better later
 
 .  Firelink Greatsword - The Lords of Cinder linked the First Flame, and this Greatsword was wielded by their deific manifestation. This coiled sword, found thrust in the bonfire, existed long before the throneless lords themselves.
 
+.  Dragonslayer Swordspear - A dragon hunting weapon from the age of the gods. The earliest form of the cross spear, serving as both a sword and a spear.
 
 ## Axes: 
 .  Greataxe - Greataxe resembling a hunk of raw iron. If one posesses the inhuman strength required to lift the weapon, the great heft of its attacks will send foes flying.  However, since every swing makes use of one's entire body, attacks leave the wielder wide open to retaliation.
@@ -32,6 +33,8 @@ i'm still figuring github out, this page may look better later
 .  Dragon Tooth - Created from an everlasting dragon tooth. Legendary great hammer of Havel the Rock. The dragon tooth will never break as it is harder than stone, and it grants its wielder resistance to magic and flame.
 
 .  Gavel Hammer - A cursed tool of Higuruma from Jujutsu Kaisen. His cursed technique allows him to manifest them whenever he needs one.
+
+. Dolchstreithammer - A unique warhammer with its head being shaped like a human hand
 
 ## Shields:
 .  Crest Shield - Shield of a nameless knight, likely a high-ranking knight of Astora. One of the enchanted blue shields. The Crest Shield greatly reduces magic damage.
