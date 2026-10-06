@@ -20,6 +20,8 @@ i'm still figuring github out, this page may look better later
 
 .  Dragonslayer Swordspear - A dragon hunting weapon from the age of the gods. The earliest form of the cross spear, serving as both a sword and a spear.
 
+.  Dao Blade - A Chinese curved sword with a longer handle for better control over the wide blade
+
 ## Axes: 
 .  Greataxe - Greataxe resembling a hunk of raw iron. If one posesses the inhuman strength required to lift the weapon, the great heft of its attacks will send foes flying.  However, since every swing makes use of one's entire body, attacks leave the wielder wide open to retaliation.
 
@@ -35,7 +37,7 @@ i'm still figuring github out, this page may look better later
 
 .  Gavel Hammer - A cursed tool of Higuruma from Jujutsu Kaisen. His cursed technique allows him to manifest them whenever he needs one.
 
-. Dolchstreithammer - A unique warhammer with its head being shaped like a human hand
+.  Dolchstreithammer - A unique warhammer with its head being shaped like a human hand
 
 ## Shields:
 .  Crest Shield - Shield of a nameless knight, likely a high-ranking knight of Astora. One of the enchanted blue shields. The Crest Shield greatly reduces magic damage.
