@@ -120,6 +120,13 @@
             }
           ]
         }
+      },
+      {
+        "when": "Dao Blade",
+        "model": {
+          "type": "minecraft:model",
+          "model": "ownpack:item/own_dao"
+        }
       }
     ],
     "fallback": {

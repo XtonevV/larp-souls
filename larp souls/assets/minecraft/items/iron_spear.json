@@ -5,6 +5,45 @@
     "cases": [
       {
         "when": [
+          "gui",
+          "ground",
+          "on_shelf"
+        ],
+        "model": {
+          "type": "minecraft:select",
+          "property": "minecraft:component",
+          "component": "minecraft:custom_name",
+          "cases": [
+            {
+              "when": "Dragonslayer Swordspear",
+              "model": {
+                "type": "minecraft:model",
+                "model": "ownpack:item/ds3_dragonslayer_swordspear_gui"
+              }
+            },
+            {
+              "when": "Lothric War Banner",
+              "model": {
+                "type": "minecraft:model",
+                "model": "ownpack:item/ds3_lothric_war_banner_gui"
+              }
+            },
+            {
+              "when": "Winged Spear",
+              "model": {
+                "type": "minecraft:model",
+                "model": "ownpack:item/own_winged_spear"
+              }
+            }
+          ],
+          "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/iron_spear"
+          }
+        }
+      },
+      {
+        "when": [
           "firstperson_righthand",
           "firstperson_lefthand",
           "thirdperson_righthand",
@@ -64,65 +103,43 @@
             }
           ],
           "fallback": {
-            "type": "minecraft:condition",
-            "property": "minecraft:using_item",
-            "on_true": {
-              "type": "minecraft:model",
-              "model": "minecraft:item/iron_spear_in_hand"
-            },
-            "on_false": {
-              "type": "minecraft:model",
-              "model": "minecraft:item/iron_spear_in_hand"
-            }
+            "type": "minecraft:select",
+            "property": "minecraft:display_context",
+            "cases": [
+              {
+                "when": [
+                  "none",
+                  "firstperson_righthand",
+                  "firstperson_lefthand",
+                  "thirdperson_righthand",
+                  "thirdperson_lefthand",
+                  "head"
+                ],
+                "model": {
+                  "type": "minecraft:model",
+                  "model": "minecraft:item/iron_spear_in_hand"
+                }
+              },
+              {
+                "when": [
+                  "gui",
+                  "ground",
+                  "fixed",
+                  "on_shelf"
+                ],
+                "model": {
+                  "type": "minecraft:model",
+                  "model": "minecraft:item/iron_spear"
+                }
+              }
+            ]
           }
         }
       }
     ],
     "fallback": {
-      "type": "minecraft:select",
-      "property": "minecraft:display_context",
-      "cases": [
-        {
-          "when": [
-            "gui",
-            "ground",
-            "on_shelf",
-            "none"
-          ],
-          "model": {
-            "type": "minecraft:select",
-            "property": "minecraft:component",
-            "component": "minecraft:custom_name",
-            "cases": [
-              {
-                "when": "Dragonslayer Swordspear",
-                "model": {
-                  "type": "minecraft:model",
-                  "model": "ownpack:item/ds3_dragonslayer_swordspear_gui"
-                }
-              },
-              {
-                "when": "Lothric War Banner",
-                "model": {
-                  "type": "minecraft:model",
-                  "model": "ownpack:item/ds3_lothric_war_banner_gui"
-                }
-              },
-              {
-                "when": "Winged Spear",
-                "model": {
-                  "type": "minecraft:model",
-                  "model": "ownpack:item/own_winged_spear"
-                }
-              }
-            ],
-            "fallback": {
-              "type": "minecraft:model",
-              "model": "minecraft:item/iron_spear"
-            }
-          }
-        }
-      ]
+      "type": "minecraft:model",
+      "model": "minecraft:item/iron_spear_in_hand"
     }
   }
 }
