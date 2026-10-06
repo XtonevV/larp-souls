@@ -18,6 +18,8 @@ Swords:
 
 .  Dragonslayer Swordspear - A dragon hunting weapon from the age of the gods. The earliest form of the cross spear, serving as both a sword and a spear.
 
+.  Dao Blade - A Chinese curved sword with a longer handle for better control over the wide blade
+
 Axes: 
 .  Greataxe - Greataxe resembling a hunk of raw iron. If one posesses the inhuman strength required to lift the weapon, the great heft of its attacks will send foes flying.  However, since every swing makes use of one's entire body, attacks leave the wielder wide open to retaliation.
 
