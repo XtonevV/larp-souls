@@ -7,7 +7,7 @@ i'm still figuring github out, this page may look better later
 
 # **IT'S ALL CASE SENSITIVE**
 
-## FOR TIERED TOOLS IT ONLY WORKS FOR IRON, DIAMOND AND NETHERITE**
+## FOR TIERED TOOLS IT ONLY WORKS FOR IRON, DIAMOND AND NETHERITE
 
 ## Swords: 
 <ul>
