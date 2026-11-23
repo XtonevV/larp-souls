@@ -22,6 +22,8 @@ i'm still figuring github out, this page may look better later
 <li> <b>Dragonslayer Swordspear</b> - A dragon hunting weapon from the age of the gods. The earliest form of the cross spear, serving as both a sword and a spear.</li>
 
 <li><b> Dao Blade</b> - A Chinese curved sword with a longer handle for better control over the wide blade</li>
+
+<li> <b>Staff of Homa</b> - To cleanse by fire all that is impure, to allow the impurities to rise with the flames unto the all-accommodating high heavens.</li>
 </ul>
 
 
@@ -30,6 +32,8 @@ i'm still figuring github out, this page may look better later
 <li> <b>Greataxe</b> - Greataxe resembling a hunk of raw iron. If one posesses the inhuman strength required to lift the weapon, the great heft of its attacks will send foes flying.  However, since every swing makes use of one's entire body, attacks leave the wielder wide open to retaliation.</li>
 
 <li> <b>Gavel Hammer</b> - A cursed tool of Higuruma from Jujutsu Kaisen. His cursed technique allows him to manifest them whenever he needs one.</li>
+
+<li><b>Rusty Pipe</b> - A simple rusted pipe. Works great, but I wouldn't recommend touching it without gloves</li>
 </ul>
 
 
@@ -69,6 +73,9 @@ i'm still figuring github out, this page may look better later
 <li><b>Winged Spear</b> - A long-hilted spear with winged lugs. Long reach, and can be used with shield up. Spear attacks are centered on thrusting, but can inflict high damage when timed with the end of an enemy's swing.</li>
 
 <li><b>Dragonslayer Swordspear</b> - A dragon hunting weapon from the age of the gods. The earliest form of the cross spear, serving as both a sword and a spear.</li>
+
+<li><b>Whirligig Saw</b> - A trick weapon crafted by the workshop heretics, the Powder Kegs, and weapon of choice of the Old Hunter Valtr, the Beast Eater.
+This weapon pummels beasts in its mace form, but its true strength lies in its attached mechanical saws.</li>
 </ul>
 
 ## Totems of Undying:
